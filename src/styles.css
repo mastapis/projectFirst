@@ -1,1 +1,178 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+body{
+	background-color: whitesmoke;
+}
+#greetings{
+	color: black;
+	text-align: center;
+	font-size: 50px;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bolder;
+	background-position: center;
+	margin-top: 20px;
+	border-radius: 25px;
+	position: relative;
+	padding: 5px;
+}
+#txt{
+	
+	font-size: 30px;
+	position: relative;
+	text-align: right;
+	
+}
+#personalDetails{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background-color: green;
+	background-position: center;
+	margin-top: 20px;
+	border-radius: 25px;
+	position: relative;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 10px;
+	max-width: 100%;
+
+}
+#profSummary{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background-color: green;
+	background-position: center;
+	margin-top: 20px;
+	border-radius: 25px;
+	position: relative;
+	margin-left: 26px;
+	margin-right: 26px;
+	padding: 10px;
+
+}
+#skills{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background-color: green;
+	background-position: center;
+	margin-top: 20px;
+	border-radius: 25px;
+	position: relative;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 10px;
+
+}
+#education{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background-color: green;
+	background-position: center;
+	margin-top: 20px;
+	border-radius: 25px;
+	position: relative;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 10px;
+
+}
+#bioData{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background-color: green;
+	background-position: center;
+	margin-top: 20px;
+	border-radius: 25px;
+	position: relative;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 10px;
+
+}
+#pictures{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background-color: green;
+	background-position: center;
+	margin-top: 20px;
+	border-radius: 25px;
+	position: relative;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 10px;
+
+}
+.section-header h2{
+    
+    font-size: 36px;
+    font-weight: 500;
+    padding-bottom: 35px;
+    text-align: center;
+    padding-top: 20px;
+}
+.details {
+	position: relative;
+    font-size: 22px;
+    padding-bottom: 35px;
+    text-align: left;
+    margin-top: -15px;
+    margin-left: 70px;
+
+}
+.summary {
+	position: relative;
+    font-size: 22px;
+    margin-top: -15px;
+    padding-bottom: 35px;
+    text-align: left;
+    margin-left: 70px;
+
+}
+.mySkill {
+	position: relative;
+    font-size: 22px;
+    margin-top: -15px;
+    padding-bottom: 35px;
+    text-align: left;
+    margin-left: 70px;
+
+}
+.myEducation {
+	position: relative;
+    font-size: 22px;
+    margin-top: -15px;
+    padding-bottom: 35px;
+    text-align: left;
+    margin-left: 70px;
+
+}
+.myBio {
+	position: relative;
+    font-size: 22px;
+    margin-top: -15px;
+    padding-bottom: 35px;
+    text-align: left;
+    margin-left: 100px;
+
+}
+div.myPics {
+  margin: 30px;
+  border: 20px solid #ccc;
+  float: left;
+  width: 500px;
+}
+
+div.myPics:hover {
+  border: 1px solid #777;
+}
+div.myPics img {
+  width: 100%;
+  height: auto;
+}
